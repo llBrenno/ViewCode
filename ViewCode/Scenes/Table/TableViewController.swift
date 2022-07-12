@@ -26,7 +26,7 @@ final class TableViewController: UIViewController {
     //MARK: Methods
     func populateArray() {
         for numero in 0...50 {
-            arrayOfNumbers.append(numero)
+            arrayOfNumbers.append(numero) 
         }
     }
 }
